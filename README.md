@@ -5,7 +5,7 @@
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tuusuario/criptomonedas-native-app.git
+   git clone https://github.com/HectorDaniell/criptomonedas-native-app.git
    cd criptomonedas-native-app
    ```
 
