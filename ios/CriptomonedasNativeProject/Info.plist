@@ -7,6 +7,8 @@
 		<string>MaterialIcons.ttf</string>
 		<string>Feather.ttf</string>
 	</array>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Esta app usa Face ID para autenticación segura</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
